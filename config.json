@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsarse",
+        "uuid": 6944487,
+        "checksum": "47k9b5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
